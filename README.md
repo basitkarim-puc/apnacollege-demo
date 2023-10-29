@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my serious first git repo.
+I will be learning git seriously.
+Author - Basit Karim.
